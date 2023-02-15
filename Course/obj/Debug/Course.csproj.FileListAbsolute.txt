@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\bin\Debug\Course.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\bin\Debug\Course.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\bin\Debug\Course.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\obj\Debug\Course.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course\obj\Debug\Course.pdb
