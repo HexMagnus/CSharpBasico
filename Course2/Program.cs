@@ -12,8 +12,7 @@ namespace Course2
         static void Main(string[] args)
         {
 
-
-            int n1 = int.Parse(Console.ReadLine());
+                        int n1 = int.Parse(Console.ReadLine());
             char ch = char.Parse(Console.ReadLine());
             double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
