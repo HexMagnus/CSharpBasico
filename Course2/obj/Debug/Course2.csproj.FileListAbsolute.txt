@@ -1,0 +1,6 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course2\bin\Debug\Course2.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course2\bin\Debug\Course2.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course2\bin\Debug\Course2.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course2\obj\Debug\Course2.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course2\obj\Debug\Course2.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Course2\obj\Debug\Course2.pdb
