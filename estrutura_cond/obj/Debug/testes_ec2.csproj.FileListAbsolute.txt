@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\bin\Debug\estrutura_cond.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\bin\Debug\estrutura_cond.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\bin\Debug\estrutura_cond.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\obj\Debug\testes_ec2.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\obj\Debug\testes_ec2.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\obj\Debug\estrutura_cond.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\estrutura_cond\obj\Debug\estrutura_cond.pdb
