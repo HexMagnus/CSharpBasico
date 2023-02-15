@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\bin\Debug\testes_ec.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\bin\Debug\testes_ec.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\bin\Debug\testes_ec.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\obj\Debug\testes_ec.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\obj\Debug\testes_ec.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\obj\Debug\testes_ec.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\testes_ec\obj\Debug\testes_ec.pdb
