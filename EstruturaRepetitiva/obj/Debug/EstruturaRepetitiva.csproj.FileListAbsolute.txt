@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\bin\Debug\EstruturaRepetitiva.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\bin\Debug\EstruturaRepetitiva.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\bin\Debug\EstruturaRepetitiva.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.pdb
