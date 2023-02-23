@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\bin\Debug\Vetores.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\bin\Debug\Vetores.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\obj\Debug\Vetores.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CSharpBasico\Vetores\obj\Debug\Vetores.pdb
