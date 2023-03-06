@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\bin\Debug\VetoresEx1.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\bin\Debug\VetoresEx1.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\bin\Debug\VetoresEx1.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\obj\Debug\VetoresEx1.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\obj\Debug\VetoresEx1.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\obj\Debug\VetoresEx1.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\VetoresEx1\obj\Debug\VetoresEx1.pdb
